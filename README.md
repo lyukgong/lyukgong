@@ -1,19 +1,19 @@
-[About me]
+# About me
 I am a developer who loves game development and technology.
 
 Games cover almost every area of development. Web, Android, Graphic, Math, Security, Hacking... a lot anyway.
 
 
-[Resolution]
+# Resolution
 I will continue to study and research in various fields of development in the future.
 
-[Rankings of interests]
+# Rankings of interests
 1. Security & Hacking
 2. Computer Graphics & Physics
 3. Server & Networks
 4. Apllication Develop (PC, Android, IOS, VR)
 
-[Languages]
+# Languages
 ![image](https://img.shields.io/badge/C-lv.4-yellowgreen)
 ![image](https://img.shields.io/badge/C%2B%2B-lv.6-lightgrey)
 ![image](https://img.shields.io/badge/C%23-lv.7-yellow)
@@ -22,7 +22,7 @@ I will continue to study and research in various fields of development in the fu
 ![image](https://img.shields.io/badge/TS-lv.5-brightgreen)
 ![image](https://img.shields.io/badge/JS-lv.5-16A17C)
 
-[Tools]
+# Tools
 ![image](https://img.shields.io/badge/Unity-lv.7-39D700)
 ![image](https://img.shields.io/badge/Unreal-lv.3-DBD415)
 ![image](https://img.shields.io/badge/DirectX9-lv.5-CA11AB)
@@ -38,7 +38,7 @@ I will continue to study and research in various fields of development in the fu
 ![image](https://img.shields.io/badge/FL_Studio-lv.3-yellowgreen)
 ![image](https://img.shields.io/badge/Blender-lv.3-orange)
 
-[What i can do]
+# What i can do
 ![image](https://img.shields.io/badge/Mobile_Game_Develop-lv.6-39D700)
 ![image](https://img.shields.io/badge/VR_Game_Develop-lv.4-DBD415)
 ![image](https://img.shields.io/badge/PC_Game_Develop-lv.5-CA11AB)

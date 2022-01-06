@@ -3,10 +3,6 @@ I am a developer who loves game development and technology.
 
 Games cover almost every area of development. Web, Android, Graphic, Math, Security, Hacking... a lot anyway.
 
-
-# Resolution
-I will continue to study and research in various fields of development in the future.
-
 # Rankings of interests
 1. Security & Hacking
 2. Computer Graphics & Physics
